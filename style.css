@@ -1,0 +1,78 @@
+.Bière{
+   text-align: center;
+}
+.liens{
+    text-align: end;
+}
+.ligne1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+    width: 900px;
+    margin-left: 200px;
+    margin-top: 35px;
+    h4{
+        color: #f5a819;
+    }
+    
+}
+.ligne2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+    width: 900px;
+    margin-left: 200px;
+    margin-top: 25px;
+    h4{
+        color: #f5a819;
+    }
+}
+.ligne3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+    width: 900px;
+    margin-left: 200px;
+    margin-top: 25px;
+    h4{
+        color: #f5a819;
+    }
+}
+.bilien{
+    background-color: rgb(70,101,127);
+}
+.icones{
+    background-color: gray;
+}
+.icone1{
+    background-color: white;
+
+}
+.icone2{
+    background-color: white;
+    
+}
+.icone3{
+    background-color: white;
+}
+.icone4{
+    background-color: white;
+}
+.icone5{
+    background-color: white;
+}
+.icone6{
+    background-color: white;
+}
+.icone7{
+    background-color: white;
+}
+.icone8{
+    background-color: white;
+}
+.icone9{
+    background-color: white;
+}
